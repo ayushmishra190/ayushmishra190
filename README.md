@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ayush Mishra. My main interest lies in Machine Learning,Data science and AI. I  have  knowledge of Python,HTML,Bootstrap CSS, Javascript,Node js- express framework,C++ language(DSA), MSSQL SERVER,Mongo db,Django. I am always curious to learn something new.
+I am Ayush Mishra. My main interest lies in Machine Learning,Web Development and Data science. I  have  knowledge of Python,HTML,Bootstrap CSS, Javascript,Node js- express framework,C++ language(DSA), MSSQL SERVER,Mongo db,Django. I am always curious to learn something new.
 
 - 🔭 I’m currently working on ML and DL projects
 - 🌱 I’m currently learning Machine Learning  and AI .
